@@ -4,7 +4,7 @@ It's a simple shell script, to report Bacula jobs statuses on Nagios, from MySQL
 
 ### Installation
 
-Since it is an active check, it is best used with NRPE. 
+Since it's an active check, it's best used with NRPE. 
 
 ```sh
 $ cd /tmp/
