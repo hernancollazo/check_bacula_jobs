@@ -1,0 +1,9 @@
+
+[general]
+history = 24 ; Historical (in hours) to report
+
+[database]
+mysqlhost = localhost
+mysqluser = bacula
+mysqlpass = PASSWORD
+mysqldb = bacula
